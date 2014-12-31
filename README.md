@@ -1,8 +1,9 @@
 developer-startup
 =================
 
-Welcome to the Mushroom Observer Developer Startup system!  The
-purpose of this system is to help software developers setup an
+Welcome to the Mushroom Observer Developer Startup system!
+
+The purpose of this system is to help software developers setup an
 environment where they can contribute to the Mushroom Observer code
 base.  The basic idea is to setup a virtual machine (VM) on your
 personal machine that is configured to serve a test version of the
